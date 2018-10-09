@@ -1,0 +1,6 @@
+*
+!*/
+
+!.gitignore
+!src/**
+!ov7675.xpr
